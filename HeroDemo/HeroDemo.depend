@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1520390491 source:d:\project\herodemo\herodemo.c
+	"HeroDemo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1520389521 source:d:\project\herodemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"HeroDemo.h"
+
+1520390923 d:\project\herodemo\herodemo.h
+

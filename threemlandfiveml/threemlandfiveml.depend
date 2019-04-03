@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523693286 source:d:\project\threemlandfiveml\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1523838829 source:d:\project\threemlandfiveml\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+	<time.h>
+
+1523795605 d:\project\threemlandfiveml\head.h
+

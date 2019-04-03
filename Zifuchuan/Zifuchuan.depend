@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1520166267 source:d:\project\zifuchuan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<string.h>
+
+1520132287 source:d:\project\zifuchuan\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<string.h>
+

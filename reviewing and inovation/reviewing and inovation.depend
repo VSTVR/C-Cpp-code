@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1527475146 source:d:\project\reviewing and inovation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"review.h"
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1527474998 source:d:\project\reviewing and inovation\review.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"review.h"
+	<time.h>
+
+1527431522 d:\project\reviewing and inovation\review.h
+	<stdio.h>
+	<stdlib.h>
+

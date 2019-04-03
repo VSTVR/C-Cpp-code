@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1524401502 source:d:\project\2048game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1524398716 source:d:\project\2048game\move.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1524400644 source:d:\project\2048game\common.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1524399628 source:d:\project\2048game\print.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1524398716 source:d:\project\2048game\max.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

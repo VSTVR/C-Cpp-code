@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1545137367 source:d:\project\cplusplus\main.cpp
+	"head.h"
+
+1545136920 d:\project\cplusplus\head.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<cctype>
+	<vector>
+	<stdexcept>
+	<fstream>
+	<sstream>
+	<math.h>
+
+1545137235 source:d:\project\cplusplus\function.cpp
+	"head.h"
+
+1528938287 source:d:\project\cplusplus\test.cpp
+	"head.h"
+

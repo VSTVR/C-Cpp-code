@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1528122212 source:d:\project\arithmaticexercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"head.h"
+
+1528122272 source:d:\project\arithmaticexercise\function.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"head.h"
+
+1527649032 d:\project\arithmaticexercise\head.h
+

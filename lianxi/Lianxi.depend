@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1520732917 source:d:\project\lianxi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1519204847 source:d:\project\lianxi\function.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1519204897 source:d:\project\lianxi\appearance.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1519351387 source:d:\project\lianxi\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1520392094 source:d:\project\lianxi\yunsuan.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1528259079 source:d:\project\equationidentity\main.c
+	"head.h"
+
+1528258095 source:d:\project\equationidentity\stackoperate.c
+	"head.h"
+
+1528251950 d:\project\equationidentity\head.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1528253826 source:d:\project\equationidentity\percede.c
+	"head.h"
+
+1528254286 source:d:\project\equationidentity\dudge.c
+	"head.h"
+
+1528254361 source:d:\project\equationidentity\cal.c
+	"head.h"
+

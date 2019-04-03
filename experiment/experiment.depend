@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1539696164 source:d:\project\experiment\main.cpp
+	"stu.h"
+
+1539696185 d:\project\experiment\stu.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<cctype>
+	<vector>
+	<stdexcept>
+	<fstream>
+	<sstream>
+	<math.h>
+
+1539695964 source:d:\project\experiment\stu.cpp
+	"stu.h"
+

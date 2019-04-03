@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1527605068 source:d:\project\newaddgame\console.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"head.h"
+
+1527770837 d:\project\newaddgame\head.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1528189577 source:d:\project\newaddgame\function.c
+	"head.h"
+
+1528191038 source:d:\project\newaddgame\main.c
+	"head.h"
+
+1527779196 source:d:\project\newaddgame\perish.c
+	"head.h"
+
+1528122667 source:d:\project\newaddgame\cal.c
+	"head.h"
+
+1528125411 source:d:\project\newaddgame\judge.c
+	"head.h"
+

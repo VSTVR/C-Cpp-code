@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: cards - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Deng\AppData\Local\Temp\RSP12F7.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/cards.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\C\cards\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\Deng\AppData\Local\Temp\RSP12F7.tmp" 
+Creating temporary file "C:\Users\Deng\AppData\Local\Temp\RSP12F8.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/cards.pdb" /debug /machine:I386 /out:"Debug/cards.exe" /pdbtype:sept 
+.\Debug\main.obj
+.\Debug\BinTree.obj
+.\Debug\CalNums.obj
+.\Debug\CombTree.obj
+.\Debug\NumbList.obj
+.\Debug\PermNumb.obj
+.\Debug\StrList.obj
+.\Debug\TreeList.obj
+]
+Creating command line "link.exe @C:\Users\Deng\AppData\Local\Temp\RSP12F8.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/cards.bsc"  .\Debug\main.sbr .\Debug\BinTree.sbr .\Debug\CalNums.sbr .\Debug\CombTree.sbr .\Debug\NumbList.sbr .\Debug\PermNumb.sbr .\Debug\StrList.sbr .\Debug\TreeList.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+cards.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

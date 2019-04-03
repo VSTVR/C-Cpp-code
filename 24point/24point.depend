@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1525054219 source:d:\project\24point\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1525052550 source:d:\project\24point\function.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524751991 source:d:\project\24point\print.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524660424 source:d:\project\24point\random.c
+
+1524663067 source:d:\project\24point\panduan.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1525052409 source:d:\project\24point\judge.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524732975 source:d:\project\24point\fuzhi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524922018 source:d:\project\24point\inneroperate.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

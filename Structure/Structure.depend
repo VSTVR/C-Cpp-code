@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1520302908 source:d:\project\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1520302974 source:d:\project\structure\hero.c
+	"Hero.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1520215186 d:\project\structure\hero.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1527776424 source:d:\project\new\function.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"head.h"
+
+1528362216 source:d:\project\new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"head.h"
+
+1527774545 d:\project\new\head.h
+

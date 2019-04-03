@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521339343 source:d:\project\gametrade\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521338854 source:d:\project\gametrade\trade.c
+	<stdio.h>
+	<stdlib.h>
+	"trade.h"
+
+1521339850 d:\project\gametrade\trade.h
+	<stdio.h>
+	<stdlib.h>
+
