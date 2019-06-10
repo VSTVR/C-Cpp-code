@@ -4,12 +4,8 @@
 
 int main()
 {
-    int aim[3]={5,6,7};
-    int i;int num=1;int len=3;
-    for(i=0;i<len;i++)
-    {
-        num+=pow(10,(len-i-1))*aim[i];
-    }
-    printf("%d",num);
+    float a=3.5;
+    int b=(int)(a);
+    printf("%d",b);
     return 0;
 }
